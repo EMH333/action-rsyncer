@@ -1,7 +1,7 @@
 # action.yml
 name: 'RSyncer Action'
 description: 'Sync content from a workflow to a remote server'
-author: 'Pendect Team'
+author: 'EMH333'
 branding:
   icon: 'truck'
   color: 'blue'

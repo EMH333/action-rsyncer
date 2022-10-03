@@ -103,26 +103,3 @@ Using a rsync workflow file: `.github/workflows/rsync.yml`, we modify the *ssh_o
 ### v1.0 (2019-11-1)
 
 * Initial release of Pendect/action-rsyncer [ericof]
-
-
-## About
-
-[Pendect](https://pendect.com/ "Pendect's Homepage") is reshaping the way you navigate your daily flood of news.
-
-Stay up to date with news events across the globe and be a part in the fight against fake news.
-
-### Follow us
-
-[![pendecthq on twitter][twitter badge]][twitter]
-
-[twitter badge]: https://img.shields.io/twitter/follow/pendecthq.svg?style=social
-[twitter]: https://twitter.com/intent/follow?screen_name=pendecthq 
-[marketplace badge]: https://img.shields.io/badge/GitHub-Marketplace-lightblue.svg
-[marketplace]: https://github.com/marketplace/actions/rsyncer-action
-[LICENSE badge]: https://img.shields.io/github/license/Pendect/action-rsyncer.svg
-[LICENSE]: https://github.com/Pendect/action-rsyncer/blob/master/LICENSE
-[release badge]: https://img.shields.io/github/release/Pendect/action-rsyncer.svg
-[latest release]: https://github.com/Pendect/action-rsyncer/releases/latest
-[star badge]: https://img.shields.io/github/stars/Pendect/action-rsyncer.svg?style=social
-[star]: https://github.com/Pendect/action-rsyncer
-[gh profile]: https://github.com/Pendect
