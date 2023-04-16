@@ -1,6 +1,6 @@
-FROM alpine:3.16
+FROM alpine:3.17
 
-LABEL version="1.3"
+LABEL version="1.4"
 LABEL maintainer="EMH333" \
       org.label-schema.vendor="EMH333" \
       com.github.actions.name="RSyncer Action" \
